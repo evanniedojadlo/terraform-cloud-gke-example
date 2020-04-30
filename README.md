@@ -1,4 +1,4 @@
-# terraform-cloud-gcp-experiment
+# terraform-cloud-gke-example
 
 ## You can follow these steps and review the resource documentation as needed
 
